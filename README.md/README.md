@@ -18,7 +18,7 @@ Etapas sugeridas:
 1. Criar uma conta pessoal no Github
 2. Criar uma conta de testes para utilizar o CRM Dynamics
 3. Criar o microserviço (sugestão é utilizar .netcore)
-4. Configurar CRM para expor API que cancele simulações e propostas
+4. Efetuar conexão com CRM para cancelar oportunidades e cotações vinculadas a contato ou conta
 5. Fazer um hook que aciona a API do CRM quando há um cadastro de novo CPF  
 6. Subir o código final para o Github e adicionar em uma pasta os prints das configurações que foram realizadas no CRM
 
