@@ -10,8 +10,7 @@ Sabemos que o prazo é um desafio e que atingir a perfeição será impossível,
 
 A tarefa consiste em criar um microserviço simples (CRUD) que armazene quais CPFs estão em uma lista negra e por qual motivo eles foram cadastrados 
 (ex.: associação a organizações terrorristas). Este microsserviço, 
-ao receber um novo registro (chamada via API), deve fazer uma chamada (também via API) para cancelar todas as simulações 
-e propostas do mesmo CPF no CRM Dynamics
+ao receber um novo registro (chamada via API), deve fazer uma chamada (também via API) para cancelar todas as oportunidades e cotações do mesmo CPF no CRM Dynamics
 
 Etapas sugeridas:
 
